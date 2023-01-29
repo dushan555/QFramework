@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFramework.CoreKit", "QFramework.CoreKit.csproj", "{ee58502f-e904-005b-b7c1-98bf0ff52b8b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{c6384bd3-cf23-5bb4-0df2-9b1f683f31db}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioKit", "AudioKit.csproj", "{76416eca-136c-b5c0-0070-e41304ffbc35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResKit", "ResKit.csproj", "{3cc3696c-b2fe-2001-6467-feaf7a85074c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIKit", "UIKit.csproj", "{f9a737a3-0d30-3e69-0eb9-38d9285325ac}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFramework", "QFramework.csproj", "{b0503476-9c6f-a1ad-5ac0-5190c27127c3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIKit.Editor", "UIKit.Editor.csproj", "{57ad5d08-de9c-4b5c-bd5f-69ca20c3a74b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResKit.Editor", "ResKit.Editor.csproj", "{3a60021e-7c31-1fe7-1570-a164cd0697e2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{9991384f-9903-1cb1-b10a-ce424de921f6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ee58502f-e904-005b-b7c1-98bf0ff52b8b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ee58502f-e904-005b-b7c1-98bf0ff52b8b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c6384bd3-cf23-5bb4-0df2-9b1f683f31db}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c6384bd3-cf23-5bb4-0df2-9b1f683f31db}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76416eca-136c-b5c0-0070-e41304ffbc35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76416eca-136c-b5c0-0070-e41304ffbc35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3cc3696c-b2fe-2001-6467-feaf7a85074c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3cc3696c-b2fe-2001-6467-feaf7a85074c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f9a737a3-0d30-3e69-0eb9-38d9285325ac}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f9a737a3-0d30-3e69-0eb9-38d9285325ac}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b0503476-9c6f-a1ad-5ac0-5190c27127c3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b0503476-9c6f-a1ad-5ac0-5190c27127c3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57ad5d08-de9c-4b5c-bd5f-69ca20c3a74b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57ad5d08-de9c-4b5c-bd5f-69ca20c3a74b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3a60021e-7c31-1fe7-1570-a164cd0697e2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3a60021e-7c31-1fe7-1570-a164cd0697e2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9991384f-9903-1cb1-b10a-ce424de921f6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9991384f-9903-1cb1-b10a-ce424de921f6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
